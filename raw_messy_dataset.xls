@@ -1,0 +1,106 @@
+Name,Age,Gender,Email,Join_Date,Salary,Department
+Alice,,,user0@example.com,2021-05-21,,Admin
+Bob,40,M,user1@example.com,,50000,Engineering
+Charlie,unknown,Male,user2@example.com,2020/01/01,50000,HR
+David,,,user3@example.com,2021-05-21,70000,Admin
+Eva,35,Other,user4@example.com,"July 4, 2020",70000,Engineering
+Frank,unknown,Other,user5@example.com,,70000,Admin
+Grace,unknown,Female,user6@example.com,"July 4, 2020",80000,Engineering
+Hannah,,Other,user7@example.com,2021-05-21,NaN,HR
+Ivy,30,Female,user8@example.com,,50000,Engineering
+Jack,35,Male,user9@example.com,2020/01/01,80000,Engineering
+Alice,,M,user10@example.com,2021-05-21,70000,Engineering
+Bob,35,M,user11@example.com,"July 4, 2020",50000,Sales
+Charlie,35,M,user12@example.com,22-06-2022,80000,Sales
+David,unknown,Other,user13@example.com,,NaN,Sales
+Eva,40,Male,user14@example.com,"July 4, 2020",80000,HR
+Frank,35,Other,user15@example.com,,NaN,Admin
+Grace,,Other,user16@example.com,2021-05-21,70000,
+Hannah,unknown,Male,user17@example.com,,NaN,Engineering
+Ivy,30,Male,user18@example.com,2021-05-21,50000,Engineering
+Jack,40,Male,user19@example.com,,70000,HR
+Alice,,Male,user20@example.com,2021-05-21,50000,Engineering
+Bob,,M,user21@example.com,22-06-2022,unknown,Sales
+Charlie,30,F,user22@example.com,,60000,
+David,40,F,user23@example.com,,NaN,Marketing
+Eva,unknown,Male,user24@example.com,,60000,Engineering
+Frank,25,F,user25@example.com,22-06-2022,60000,Sales
+Grace,40,F,user26@example.com,"July 4, 2020",NaN,Marketing
+Hannah,30,Male,user27@example.com,2021-05-21,70000,
+Ivy,,F,user28@example.com,2020/01/01,unknown,Marketing
+Jack,unknown,Other,user29@example.com,2021-05-21,50000,Sales
+Alice,40,Female,user30@example.com,2021-05-21,80000,Admin
+Bob,25,Female,user31@example.com,"July 4, 2020",50000,Admin
+Charlie,25,Male,user32@example.com,2021-05-21,80000,Marketing
+David,35,M,user33@example.com,22-06-2022,50000,HR
+Eva,35,Male,user34@example.com,22-06-2022,NaN,Marketing
+Frank,,M,user35@example.com,,unknown,Engineering
+Grace,30,Female,user36@example.com,,80000,Engineering
+Hannah,40,Male,user37@example.com,2020/01/01,,Admin
+Ivy,40,,user38@example.com,2021-05-21,70000,HR
+Jack,,Other,user39@example.com,2021-05-21,50000,Sales
+Alice,,F,user40@example.com,"July 4, 2020",50000,Engineering
+Bob,,M,user41@example.com,,80000,Admin
+Charlie,,,user42@example.com,22-06-2022,70000,
+David,,F,user43@example.com,2020/01/01,70000,Admin
+Eva,35,F,user44@example.com,,NaN,Engineering
+Frank,40,Male,user45@example.com,22-06-2022,,Engineering
+Grace,,F,user46@example.com,,NaN,Admin
+Hannah,40,Other,user47@example.com,,NaN,Sales
+Ivy,25,,user48@example.com,"July 4, 2020",NaN,Marketing
+Jack,35,F,user49@example.com,"July 4, 2020",NaN,Engineering
+Alice,unknown,Male,user50@example.com,2021-05-21,NaN,Admin
+Bob,35,Other,user51@example.com,,unknown,Admin
+Charlie,,Female,user52@example.com,2020/01/01,70000,HR
+David,unknown,,user53@example.com,,NaN,Marketing
+Eva,25,F,user54@example.com,22-06-2022,70000,
+Frank,,Male,user55@example.com,,70000,Sales
+Grace,30,Female,user56@example.com,,60000,
+Hannah,40,Female,user57@example.com,"July 4, 2020",unknown,Marketing
+Ivy,25,M,user58@example.com,2021-05-21,NaN,Marketing
+Jack,40,Other,user59@example.com,2021-05-21,50000,Marketing
+Alice,,F,user60@example.com,,80000,
+Bob,30,Male,user61@example.com,"July 4, 2020",,Marketing
+Charlie,30,M,user62@example.com,,50000,Admin
+David,25,Other,user63@example.com,2020/01/01,unknown,
+Eva,30,M,user64@example.com,"July 4, 2020",80000,Marketing
+Frank,unknown,,user65@example.com,,unknown,Admin
+Grace,30,Other,user66@example.com,,70000,HR
+Hannah,40,Other,user67@example.com,"July 4, 2020",80000,Marketing
+Ivy,40,F,user68@example.com,,70000,
+Jack,,Other,user69@example.com,"July 4, 2020",50000,Engineering
+Alice,40,M,user70@example.com,22-06-2022,50000,Marketing
+Bob,,Other,user71@example.com,"July 4, 2020",80000,Engineering
+Charlie,40,F,user72@example.com,"July 4, 2020",80000,Admin
+David,unknown,F,user73@example.com,,NaN,HR
+Eva,,,user74@example.com,,unknown,Sales
+Frank,35,M,user75@example.com,2021-05-21,NaN,HR
+Grace,,Female,user76@example.com,2021-05-21,unknown,Marketing
+Hannah,25,Female,user77@example.com,22-06-2022,NaN,Engineering
+Ivy,40,Other,user78@example.com,2021-05-21,70000,Engineering
+Jack,30,,user79@example.com,"July 4, 2020",80000,
+Alice,40,Male,user80@example.com,,50000,Engineering
+Bob,30,Other,user81@example.com,2021-05-21,unknown,
+Charlie,,,user82@example.com,2021-05-21,unknown,Admin
+David,,M,user83@example.com,22-06-2022,50000,Sales
+Eva,,M,user84@example.com,,NaN,Marketing
+Frank,30,M,user85@example.com,22-06-2022,unknown,
+Grace,40,M,user86@example.com,"July 4, 2020",,Sales
+Hannah,,M,user87@example.com,,70000,Engineering
+Ivy,unknown,,user88@example.com,22-06-2022,80000,Engineering
+Jack,,,user89@example.com,2021-05-21,50000,Sales
+Alice,30,F,,,80000,Engineering
+Bob,30,Female,,,,Admin
+Charlie,40,M,,2021-05-21,unknown,Admin
+David,30,Male,,22-06-2022,unknown,Sales
+Eva,30,,,2021-05-21,,
+Frank,,Male,,,50000,
+Grace,40,Male,,,70000,Sales
+Hannah,,Male,,2020/01/01,60000,
+Ivy,,F,,2020/01/01,50000,
+Jack,,,,"July 4, 2020",60000,Admin
+Alice,,,user0@example.com,2021-05-21,,Admin
+Bob,40,M,user1@example.com,,50000,Engineering
+Charlie,unknown,Male,user2@example.com,2020/01/01,50000,HR
+David,,,user3@example.com,2021-05-21,70000,Admin
+Eva,35,Other,user4@example.com,"July 4, 2020",70000,Engineering
